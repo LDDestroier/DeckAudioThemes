@@ -1,0 +1,10 @@
+{
+  "name": "PlayOnline BGM",
+  "description": "The background music from the PlayOnline launcher associated with Final Fantasy XI.",
+  "author": "LDDestroier",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
